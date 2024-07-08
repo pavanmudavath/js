@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(233, 178, 178);
+}
+.button{
+    height: 125px;
+    width: 125px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#gray{
+    background-color: gray;
+ 
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
